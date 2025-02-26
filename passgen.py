@@ -8,3 +8,6 @@ characters = string.ascii_letters + string.digits + string.punctuation
 password = ''.join(random.choice(characters) for i in range(length))
 
 print('Generated password: ' + password)
+
+# This program will generate a random password of the given length.
+# The password will contain letters, digits, and special characters.
