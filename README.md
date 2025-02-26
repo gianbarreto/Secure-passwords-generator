@@ -1,2 +1,2 @@
 # passgen
-Secure passwords generator.
+Secure passwords generator made in Python.
