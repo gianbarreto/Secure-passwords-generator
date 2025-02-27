@@ -11,5 +11,5 @@ The **Secure Passwords Generator** project was developed to create strong, rando
 - Strengthening cybersecurity awareness in authentication mechanisms.  
 
 ## Tools Used  
-- **Python** – Core language for password generation.  
+- **Python** – Core language.
 - **Random & Secrets Libraries** – Used for secure random password generation.  
